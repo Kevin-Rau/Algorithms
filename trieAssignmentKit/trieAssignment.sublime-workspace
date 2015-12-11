@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"res",
+				"results2"
+			],
+			[
+				"resu",
+				"results2"
+			],
+			[
+				"resuts",
+				"results2"
+			],
+			[
+				"trie",
+				"trieNode"
+			],
+			[
+				"resul",
+				"results2"
+			],
+			[
+				"my",
+				"MyTrieNode"
+			],
+			[
+				"is",
+				"isWordEnd"
+			],
+			[
+				"chc",
+				"characterNode"
+			],
+			[
+				"charac",
+				"characterNode"
+			],
+			[
+				"Charac",
+				"characterNode"
+			],
+			[
+				"chara",
+				"characterNode"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"pro",
+				"profile_banner"
+			],
+			[
+				"in",
+				"insertionSort"
+			],
+			[
+				"m",
+				"measureRunningTimeComplexity"
+			],
+			[
+				"merge",
+				"mergeArray"
+			],
+			[
+				"fir",
+				"firstArray2"
+			],
+			[
+				"las",
+				"lastArray2"
+			],
+			[
+				"first",
+				"firstArray2"
+			],
+			[
+				"firstA",
+				"firstArray1"
+			],
+			[
+				"last",
+				"lastArray1"
+			],
+			[
+				"firs",
+				"firstArray1"
+			],
+			[
+				"la",
+				"lastArray2"
+			],
+			[
+				"pi",
+				"pivot"
+			],
+			[
+				"pivot",
+				"pivotElement"
+			],
+			[
+				"lst",
+				"lst"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"merg",
+				"mergeSort"
+			],
+			[
+				"ge",
+				"generateRandomList"
+			],
+			[
+				"q",
+				"quickSort"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"t",
+				"twoThird"
+			],
+			[
+				"sub",
+				"sub_array1"
+			],
+			[
+				"su",
+				"sub_array3"
+			],
+			[
+				"s",
+				"sub_array1"
+			],
+			[
+				"com",
+				"computer"
+			],
+			[
+				"sta",
+				"startcomputer"
+			],
+			[
+				"print",
+				"printHdInfo"
+			],
+			[
+				"pr",
+				"PrintCPUInfo"
+			],
+			[
+				"P",
+				"PrintHdInfo"
+			],
+			[
+				"p",
+				"PrintCPUInfo"
+			],
+			[
+				"C",
+				"Computer"
+			],
+			[
+				"cp",
+				"CPU"
+			],
+			[
+				"i",
+				"getInfo"
+			],
+			[
+				"Cp",
+				"CPU"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"c",
+				"cpu"
+			],
+			[
+				"value",
+				"valueNum"
+			],
+			[
+				"n",
+				"neighbor"
+			],
+			[
+				"to",
+				"toExplore"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/trieClass.py",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/trieTester.py",
+		"/Users/kevinrau/Documents/twitter_framework/apps/get_profile_banner.rb",
+		"/Users/kevinrau/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kevinrau/Documents/twitter_framework/requests/UsersProfileBanner.rb",
+		"/Users/kevinrau/Documents/College/Code/Breakfast/breakfast/routes/index.js",
+		"/Users/kevinrau/Documents/twitter_framework/apps/get_friends.rb",
+		"/Users/kevinrau/Documents/twitter_framework/apps/users_lookup.rb",
+		"/Users/kevinrau/Documents/twitter_framework/apps/oauth.properties",
+		"/Users/kevinrau/Documents/College/Code/Breakfast/breakfast/views/userlist.jade",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test2.spec",
+		"/Users/kevinrau/Documents/College/Code/twitter_framework-master/core/StreamingTwitterRequest.rb",
+		"/Users/kevinrau/Documents/College/Code/twitter_framework-master/requests/FilterTrackStream.rb",
+		"/Users/kevinrau/Documents/College/Code/twitter_framework-master/core/TwitterRequest.rb",
+		"/Users/kevinrau/Documents/College/Code/twitter_framework-master/apps/get_tweets.rb",
+		"/Users/kevinrau/Documents/College/Code/twitter_framework-master/requests/Search.rb",
+		"/Users/kevinrau/Documents/College/Code/Breakfast/breakfast/app.js",
+		"/Users/kevinrau/Documents/College/Code/Breakfast/breakfast/views/newuser.jade",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/trieAssignment.sublime-project",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/TrieTreeAssignment.sublime-workspace",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test1.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test3.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test4.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test5.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test6.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test7.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test8.spec",
+		"/Users/kevinrau/Documents/College/Code/trieAssignmentKit/test9.spec",
+		"/Users/kevinrau/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/kevinrau/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kevinrau/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/kevinrau/Downloads/Kevin_Rau_Ian_Moore_Perf_Lab-2/Makefile",
+		"/Users/kevinrau/Documents/Code/Python/Code.py",
+		"/Users/kevinrau/GitHub/CSCI-Lab5/README.md",
+		"/Users/kevinrau/Documents/Code/CSCI_2270/Polynomial/polytest.cxx",
+		"/Users/kevinrau/Documents/Code/CSCI_2270/Polynomial/poly.cxx",
+		"/Users/kevinrau/Documents/Code/CSCI_2270/Java_Graphs/FestivalOfGraphs.class",
+		"/Users/kevinrau/Documents/Code/CSCI_2270/Java_Graphs/Edge.class",
+		"/Users/kevinrau/Documents/Polynomial/polytest.cxx",
+		"/Users/kevinrau/Documents/Polynomial/polyexam.cxx",
+		"/Users/kevinrau/Documents/Polynomial/poly.h",
+		"/Users/kevinrau/Documents/Polynomial/poly.cxx",
+		"/Users/kevinrau/Documents/Polynomial/Makefile",
+		"/Users/kevinrau/Documents/OpenGL.sublime-build .json",
+		"/Users/kevinrau/Documents/OpenGL.sublime-build",
+		"/Users/kevinrau/Downloads/Makefile",
+		"/Users/kevinrau/Downloads/polytest.cxx",
+		"/Users/kevinrau/Downloads/polyexam.cxx",
+		"/Users/kevinrau/Downloads/poly.h",
+		"/Users/kevinrau/Downloads/poly.cxx",
+		"/Users/kevinrau/Downloads/poly-2.cxx"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x",
+			"ne",
+			"x",
+			" :",
+			"x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
